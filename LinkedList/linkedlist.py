@@ -33,5 +33,6 @@ if __name__ == '__main__':
     obj.add_new(51)
     obj.add_new(50)
 
-    print(obj.get())
+    # print(obj.get())
+
 
